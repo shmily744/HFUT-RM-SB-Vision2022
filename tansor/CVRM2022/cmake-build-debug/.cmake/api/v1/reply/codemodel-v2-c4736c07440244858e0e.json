@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "AutoAim",
+					"jsonFile" : "directory-AutoAim-Debug-3c171f400ef8385ffcbc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "AutoAim",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "core_io",
+					"jsonFile" : "directory-core_io-Debug-5da7287c88449389d890.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "core_io",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "CVRM2022",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "AutoAim::@d8e974b355ff5184c84c",
+					"jsonFile" : "target-AutoAim-Debug-b33a270013bfc31d9e10.json",
+					"name" : "AutoAim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CVRM2022::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CVRM2022-Debug-b7ee2d43442556febd91.json",
+					"name" : "CVRM2022",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "core_io::@adb23e32c93e53861d3e",
+					"jsonFile" : "target-core_io-Debug-14f991befb0aa757f04b.json",
+					"name" : "core_io",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jimmy/CLionProjects/CVRM2022/cmake-build-debug",
+		"source" : "/home/jimmy/CLionProjects/CVRM2022"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

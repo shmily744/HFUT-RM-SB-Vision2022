@@ -1,0 +1,11 @@
+# ninja log v5
+2	2299	1647523307982219318	AutoAim/CMakeFiles/AutoAim.dir/AutoAim.cpp.o	82e5c6c4245ea9e3
+2380	2661	1647181809902767354	CVRM2022	36190afb367f0471
+5	2264	1647523307950218685	core_io/CMakeFiles/core_io.dir/sensors.cpp.o	6b15764cff370e7e
+3	1558	1647523307242204690	AutoAim/CMakeFiles/AutoAim.dir/detector/TRTModule.cpp.o	3b8b6ebbee7f6c63
+4	760	1647523306446188955	AutoAim/CMakeFiles/AutoAim.dir/usr/src/tensorrt/samples/common/logger.cpp.o	8998d853eda30bd9
+4	532	1647523306218184448	core_io/CMakeFiles/core_io.dir/robot.cpp.o	9b528ec6b26d5445
+2	2176	1647523307862216946	CMakeFiles/CVRM2022.dir/main.cpp.o	772a656d46371c69
+1	299	1647665182730636002	CVRM2022	8de2b0afbeea9ede
+2	2000	1647665225983586924	AutoAim/CMakeFiles/AutoAim.dir/AutoAim.cpp.o	82e5c6c4245ea9e3
+2000	2259	1647665226239592487	CVRM2022	8de2b0afbeea9ede

@@ -1,0 +1,6 @@
+/home/hfut/tansor/CVRM2022/build/CMakeFiles/CVRM2022.dir
+/home/hfut/tansor/CVRM2022/build/CMakeFiles/edit_cache.dir
+/home/hfut/tansor/CVRM2022/build/CMakeFiles/rebuild_cache.dir
+/home/hfut/tansor/CVRM2022/build/AutoAim/CMakeFiles/AutoAim.dir
+/home/hfut/tansor/CVRM2022/build/AutoAim/CMakeFiles/edit_cache.dir
+/home/hfut/tansor/CVRM2022/build/AutoAim/CMakeFiles/rebuild_cache.dir
