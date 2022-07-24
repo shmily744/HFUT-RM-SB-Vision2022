@@ -1,5 +1,5 @@
-# HFUT-RM-SB-Vision2021
-合肥工业大学robomaster苍穹战队2021赛季烧饼视觉代码
+# HFUT-RM-SB-Vision2022
+合肥工业大学robomaster苍穹战队2022赛季烧饼视觉代码
 
 主体识别部分采用了上交2021开源部分，自行添加了卡尔曼滤波预测。
 
